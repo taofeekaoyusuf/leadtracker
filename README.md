@@ -6,7 +6,7 @@
 
 #### SAVE INPUT: This feature allows you to copy and paste a lead into the input box and save it.
 #### SAVE TAB: This feature allows for the automatic saving of any lead tab in the Config box, eliminating the need for copying and pasting.
-### DELETE ALL: This feature allows you to clear or delete all the saved lead tabs for a fresh start.
+#### DELETE ALL: This feature allows you to clear or delete all the saved lead tabs for a fresh start.
 
 This application can be forked and customised as needed. Kindly feel free to do so.
 
