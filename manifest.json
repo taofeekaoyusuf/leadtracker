@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "description": "Enable user to easily keep track of all possible leads across the Google Chrome tabs.",
+    "name": "Lead Tracker",
+    "action": {
+        "default_popup": "leadtracker.html",
+        "default_icon": "dollar_icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
+
